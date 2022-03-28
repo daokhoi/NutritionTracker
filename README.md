@@ -8,4 +8,7 @@ Requirements Python 3.7
 
 IDE: Any works as long Python can be run on so posssible IDEs include VS Code, Pycharm, and etc.
 
-Libraries that are needed: Request operator math
+Libraries that are needed: 
+Request
+operator 
+math
